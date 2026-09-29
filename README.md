@@ -7,8 +7,8 @@ My main interest is turning data into better decisions by combining **predictive
 - 🎓 **PhD in Mathematics**, with a research background at the **Department of Statistics and Operations Research, Faculty of Mathematics, University of Seville**
 - 🔬 Research focused on **prescriptive analytics**
 - 🌊 Collaborated with the **Instituto de Investigaciones Marinas (IIM-CSIC)**
-- 🇮🇹 Research visit at Sapienza University of Rome — Dipartimento di Ingegneria Informatica Automatica e Gestionale "Antonio Ruberti", with Prof. Veronica Piccialli
-- 🇨🇱 Research visit at University of Chile — Faculty of Economics and Business, with Prof. Sebastián Maldonado
+- 🇮🇹 Research visit at **Sapienza University of Rome** — Dipartimento di Ingegneria Informatica Automatica e Gestionale "Antonio Ruberti", with Prof. Veronica Piccialli
+- 🇨🇱 Research visit at **University of Chile** — Faculty of Economics and Business, with Prof. Sebastián Maldonado
 - 💼 Currently Engineering Manager of the **Artificial Intelligence and Operations Research** team at OGA.
 - 🎓 Research profile: https://www.researchgate.net/profile/Nuria-Gomez-Vargas
 
